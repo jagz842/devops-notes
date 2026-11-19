@@ -9,6 +9,7 @@ The note helper adds entries automatically. For manually added or substantially 
 ## Reading queue
 
 <!-- entries -->
+- [ ] 2026-11-19 — [GitHub Actions token permissions: the vault and the visitor's badge](notes/github-actions/github-token-permissions.md) — Understand job tokens, least-privilege permissions, and when workflows need write access.
 - [ ] 2026-10-03 — [npm install vs npm ci; package.json vs package-lock.json](notes/npm/install-vs-ci-and-package-files.md) — Compare dependency manifests, lockfiles, and local versus CI install workflows.
 - [ ] 2026-10-03 — **Updated** [CI/CD testing and security guidance](notes/github-actions/ci-cd-reference.md#tests-security-checks-and-malware-scanning) — Test placement, dependency/code/secret scans, optional malware scanning, and connecting required checks to deployment; includes a template extension checklist.
 - [ ] 2026-10-03 — [CI/CD workflow reference and templates](notes/github-actions/ci-cd-reference.md) — Analysis of the imported workflows, copyable Node.js/VPS starters, setup, customization, and recovery notes.
