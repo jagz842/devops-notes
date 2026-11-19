@@ -15,6 +15,7 @@ Workflows, runners, environments, caching, and pull requests.
 - [Action samples](action-samples.md)
 - [Action types for llm deploy](action-types-for-llm-deploy.md)
 - [Cache action](cache-action.md)
+- [GitHub token permissions: the vault and the visitor's badge](github-token-permissions.md)
 - [Github environments](github-environments.md)
 - [Learning roadmap](learning-roadmap.md)
 - [Sharing](sharing.md)
